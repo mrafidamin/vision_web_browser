@@ -1,0 +1,19 @@
+# Core AI Agent Framework
+smolagents>=1.10.0
+
+# LLM Providers & Integration (used by LiteLLMModel default in smolagents)
+litellm>=1.40.0
+
+# Browser Automation
+selenium>=4.20.0
+helium>=5.0.0
+
+# Vision & Image Processing
+pillow>=10.0.0
+
+# Search Tooling (for WebSearchTool)
+duckduckgo-search>=6.0.0
+
+# Environment Variable Management
+python-dotenv>=1.0.0
+
